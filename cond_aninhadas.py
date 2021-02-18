@@ -9,25 +9,6 @@ else:
     print('Seu nome é bem normal.')
 print('Tenha um bom dia, {}!'.format(nome))'''
 
-#=========================================================================
-#Escreva um programa para aprovar empréstimo bancário para compra deuma casa.
-#O programa vai perguntar o valor da casa,o salario do comprador e em quantos anos ele vai pagar
-#Calcule o valor da prestação mensal, sabendo que ela nâo pode exceder 30%do salario ou
-#entao o emprestimo sera negado.
-'''vlcasa = float(input('Qual valor do imóvel? '))
-salario = float(input('Qual renda salarial? '))
-anos = int(input('\033[0;33;41mEm quantos meses pretende pagar?\033[m'))
-prestacao = vlcasa (anos * 12)
-prestmax = salario*1.30
-prest = vlcasa/anos
-
-if prest <= prestmax:
-    print('Emprestimo liberado .O valor da prestação é R$ {} reais durante {} anos'.format(prest, anos))
-elif prest > prestmax:
-    print('Emprestimo Negado. O Valor excede a margem consignada.')
-else:
-    print ('Tente novamente')'''
-
 #=========================================================================================================
 #Escreva um programa que leia um numero inteiro qualquer e peça para usuario escolher qual sera a base de conversao:
 # 1 para binário, 2 para octal, 3 para hexadecimal
