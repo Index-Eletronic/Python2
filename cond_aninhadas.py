@@ -11,14 +11,6 @@ print('Tenha um bom dia, {}!'.format(nome))'''
 
 #=========================================================================================================
 
-#A confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordocom a idade;
-# Até 9 anos; MIRIM
-# Até 14 anos; INFANTIL
-# Até 19 anos; Junior
-# Até 20 anos; Senior
-# Acima: Master
-
-#=========================================================================================================
 #Refaça o Desafio dos triangulos, acrescentando o recurso de mostrar que tipode triangulo será formado:
 # - Equilatero: todos os lados iguais
 # - isósceles: dois lados iguais
@@ -43,9 +35,6 @@ print('Tenha um bom dia, {}!'.format(nome))'''
 # - Á vista no cartão: 5% de desconto
 # - Em até 2x no cartão: preço normal
 # - 3x ou mais no cartão: 20% de juros
-
-
-
 
 
 #=========================================================================================================
