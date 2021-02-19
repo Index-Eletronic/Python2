@@ -10,12 +10,6 @@ else:
 print('Tenha um bom dia, {}!'.format(nome))'''
 
 #=========================================================================================================
-#Escreva um programa que leia um numero inteiro qualquer e peça para usuario escolher qual sera a base de conversao:
-# 1 para binário, 2 para octal, 3 para hexadecimal
-
-
-
-#=========================================================================================================
 '''#Escreva um programa que leia dois numeros inteiros e compare-os, mostrando na tela uma mensagem
 # - O pirmeiro valor é maior
 # - O segundo valor é maior
