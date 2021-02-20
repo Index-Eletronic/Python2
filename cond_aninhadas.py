@@ -10,16 +10,6 @@ else:
 print('Tenha um bom dia, {}!'.format(nome))'''
 
 #=========================================================================================================
-
-#Refaça o Desafio dos triangulos, acrescentando o recurso de mostrar que tipode triangulo será formado:
-# - Equilatero: todos os lados iguais
-# - isósceles: dois lados iguais
-# - Escaleno: todos os lados diferentes
-
-
-
-
-#=========================================================================================================
 # Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela abaixo:
 # - Abaixo de 18.5: Abaixo do Peso
 # - Entre 18.5 e 25: Peso ideal
