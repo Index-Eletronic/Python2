@@ -13,5 +13,12 @@ print('O ATLETA POSSUI {} ANOS'.format(idade))
 
 if idade <= 9:
     print('Este atleta é da categogia MIRIM')
-elif idade >=10 and idade <= 14:
+elif  idade <= 14:
+    print('Este atleta é da categoria INFALTIL')
+elif  idade <= 19:
+    print('Este atleta é da categoria JUNIOR')
+elif idade <= 25:
+    print('Este atleta é da categoria SENIOR')
+else:
+    print('Este atleta é da categora MASTER')
 
