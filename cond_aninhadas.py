@@ -9,25 +9,6 @@ else:
     print('Seu nome é bem normal.')
 print('Tenha um bom dia, {}!'.format(nome))'''
 
-#=========================================================================================================
-
-#Refaça o Desafio dos triangulos, acrescentando o recurso de mostrar que tipode triangulo será formado:
-# - Equilatero: todos os lados iguais
-# - isósceles: dois lados iguais
-# - Escaleno: todos os lados diferentes
-
-
-
-
-#=========================================================================================================
-# Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela abaixo:
-# - Abaixo de 18.5: Abaixo do Peso
-# - Entre 18.5 e 25: Peso ideal
-# - 25 até 30: Sobrepeso
-# - 30 até 40: Obesidade
-# - Acima de 40: Obesidade Mórbida.
-
-
 
 #=========================================================================================================
 #Elabore um programa que calcule o valor a ser pago por um produto, considerando seu preço normal e condição de pagamento:
