@@ -91,8 +91,7 @@ elif computador == 2: #Computador jogou Tesoura
         print('EMPATE')
     else:
         print('JOGADA INVALIDA')
-sleep(5)
-
+sleep(6)
 
 
 
