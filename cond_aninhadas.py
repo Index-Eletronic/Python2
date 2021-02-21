@@ -9,6 +9,7 @@ else:
     print('Seu nome é bem normal.')
 print('Tenha um bom dia, {}!'.format(nome))'''
 
+
 #=========================================================================================================
 #Elabore um programa que calcule o valor a ser pago por um produto, considerando seu preço normal e condição de pagamento:
 # - Á vista dinheiro/cheque: 10% de desconto.
