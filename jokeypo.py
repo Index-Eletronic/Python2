@@ -15,7 +15,7 @@ elif player == 3:
     print('Tesoura')
 
 for i in tqdm(range(10)):
-    sleep(1)
+        sleep(1)
 
 comp = randint(1, 3)
 if comp == 1:
