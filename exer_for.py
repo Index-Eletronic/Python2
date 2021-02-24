@@ -10,6 +10,7 @@ print('FELIZ ANO NOVO!!!!')
 
 
 
+
 #Crie um prgroama que calcule a soma de todos os numeros impares que são multiplos de 3 e que se encontram no intervalo de 1 a 500.
 
 
