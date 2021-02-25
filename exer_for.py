@@ -6,11 +6,6 @@ for i in range(10, 0,-1):
     sleep(1)
 print('FELIZ ANO NOVO!!!!')
 
-#Crie um programa que mostre todos os numeros pares entre 1 e 50
-
-
-
-
 #Crie um prgroama que calcule a soma de todos os numeros impares que são multiplos de 3 e que se encontram no intervalo de 1 a 500.
 
 
