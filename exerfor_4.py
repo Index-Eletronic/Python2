@@ -7,4 +7,4 @@ for c in range(1, 7):
     if num % 2 ==0:
         soma += num
         cont += 1
-print('Vocẽ informou {} números e a soma foi {}'.format(cont, soma))
+print('Vocẽ informou {} números e a soma foi {}'.format(cont, soma))    
