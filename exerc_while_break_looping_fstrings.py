@@ -1,0 +1,1 @@
+'''instrução break e os loopings infinitos a favor das nossas estratégias de código e  fstrings do Python.'''
