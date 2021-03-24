@@ -7,17 +7,17 @@ print('=' * 30)
 print('{:^30}'.format('BANCO TUON'))
 print('=' * 30)
 
-valor = int(input('QUAL VALOR VOCÊ DESEJA SACAR?'))
+valor = int(input('QUAL VALOR VOCÊ DESEJA SACAR R$: '))
 total = valor
 ced = 50
 totced = 0
 while True:
-    if total <= ced:
+    if total >= ced:
         total -= ced
         totced += 1
     else:
         if totced > 0:
-            print(f'O TOTAL DE {totced} CÉLUAS DE R${ced} REAIS')
+            print(f'TOTAL DE {totced} CÉLUAS DE R${ced} REAIS')
         if ced == 50:
             ced = 20
         elif ced == 20:
